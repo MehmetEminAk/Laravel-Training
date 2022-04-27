@@ -8,8 +8,8 @@
 </head>
 <body>
     <form>
-        <input type="email" name="" id="">
-        <input type="password" name="" id="">
+        <input type="email" name="ahmet" id="ahmeti">
+        <input type="password" name="mehmet" id="mehmeti">
     </form>
 </body>
 </html>
