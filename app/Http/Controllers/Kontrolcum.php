@@ -10,3 +10,4 @@ class Kontrolcum extends Controller
         return view("index",['isim'=>$isim]);
     }
 }
+?>
