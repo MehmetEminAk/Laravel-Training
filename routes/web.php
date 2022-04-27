@@ -6,4 +6,5 @@ use App\Http\Controllers\Kontrolcum;
 
 Route::get('/',function (){return view("welcome");});
 Route::get("/anaSayfayaGit/{isim}",[Kontrolcum::class,'anaSayfayaGit']);
+Route::get("/index.php/,function (){return view("welcome");});
 ?>
